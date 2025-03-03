@@ -13,7 +13,7 @@ public class Exercicio11_M01S03 {
         lista.add("Mamão");
         lista.add("Abacaxi");
 
-        char caractere = 'M'; // Caractere para filtrar
+        char caractere = 'M';
 
         ArrayList<String> resultado = filtrarStringsPorCaractere(lista, caractere);
 
